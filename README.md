@@ -23,3 +23,6 @@ To use this with your board, change the following macros in `WS2814_HAL.h`:
 #define WS2814_HAL_NO_INTERRUPTS asm volatile ("cli\n"); // also no interrupts :P
 ```
 Remember, it's not pretty but it works, and this is a free driver for an obscure chip that not many use with the Arduino
+
+If you want features added or support for different MCUs, please post an issue, and donations would be greatly appreciated:
+https://www.buymeacoffee.com/kn4hji
