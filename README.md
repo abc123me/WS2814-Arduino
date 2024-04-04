@@ -24,5 +24,6 @@ To use this with your board, change the following macros in `WS2814_HAL.h`:
 ```
 Remember, it's not pretty but it works, and this is a free driver for an obscure chip that not many use with the Arduino
 
-If you want features added or support for different MCUs, please post an issue, and donations would be greatly appreciated:
-https://www.buymeacoffee.com/kn4hji
+If you want features added or need support for different MCUs, please post an issue on GitHub and i'll look into it as soon as I can!
+
+Any donations would be greatly appreciated: https://www.buymeacoffee.com/kn4hji
