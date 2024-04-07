@@ -1,5 +1,5 @@
-# WS2814-Arduino
-WS2814 driver library for Arduino
+# WS28XX Embedded library
+This is a library for the WS2812 and WS2814 LED strips, it was originally intended for Arduino but should work on other platforms.
 
 ## Support
 This driver currently only supports the Atmel AVR line, and is *specifically* for the ATMega328P with a 20MHz clock!
